@@ -2,8 +2,7 @@
   "name": "tiktok",
   "version": "1.0.0",
   "description": "",
-  "type": "module",
-  "main": "index.mjs",
+  "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
     "serve": "node index.js"
